@@ -1,0 +1,12 @@
+
+body {
+    background:rgb(189, 129, 129); font-size:24pt;
+}
+.languages {
+    border:1px #AAA, border-radius 12px; background:#CCC, 
+    padding-top 50px
+    padding-right 50px
+    padding-bottom 50px
+    padding-left 50px;
+
+}

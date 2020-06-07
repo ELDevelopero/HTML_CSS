@@ -1,0 +1,28 @@
+body {
+    Margin: 0px;
+    Padding: 0px;
+    Background-color: #CCCCCC;
+}
+
+section {
+    Margin-Left: 20px;
+}
+h1 {
+    font-size: 28px;
+}
+p{
+    font-size: 24px;
+    font-style: italic;
+}
+
+.l2 {
+    font-size: 28px;
+    font-style: initial;
+
+}
+
+.l3 {
+    font-size: 28px;
+    font-style: initial;
+    font-weight: bold;
+}

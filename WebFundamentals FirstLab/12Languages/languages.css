@@ -1,0 +1,13 @@
+
+body {
+    background-color:#EEE; font-size:24pt;
+}
+span.language {
+
+    text-align: center;
+    border: 1px #AAA; 
+    border-radius: 12px;
+    background:#CCC;
+     
+    
+}
